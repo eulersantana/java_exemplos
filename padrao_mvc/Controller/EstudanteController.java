@@ -23,7 +23,7 @@ public class EstudanteController {
         return model.getNota();
     }
     public void setEstudanteNota(Integer nota) {
-        model.setNota(nota);s
+        model.setNota(nota);
     }
 
     public void atualizaView(){
