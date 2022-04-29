@@ -4,7 +4,11 @@ metadata:
   name: java_exemplos
   annotations:
     github.com/project-slug: eulersantana/java_exemplos
+  tags:
+    - java
+    - spring-boot
+    - postgres
 spec:
-  type: other
-  lifecycle: unknown
+  type: service
+  lifecycle: production
   owner: Onboarding
