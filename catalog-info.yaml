@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: java_exemplos
+  annotations:
+    github.com/project-slug: eulersantana/java_exemplos
+spec:
+  type: other
+  lifecycle: unknown
+  owner: Onboarding
